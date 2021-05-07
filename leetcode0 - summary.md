@@ -5,7 +5,7 @@ categories: leetcode
 tags: [leetcode]
 ---
 
-下表是 leetcode 题目的合集 (持续更新)，每道题目具体的解题过程请看 [这里](https://whfang.xyz//categories/leetcode/)
+下表是 leetcode 题目的合集 (持续更新)
 
 <!--more-->
 
