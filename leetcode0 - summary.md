@@ -38,4 +38,5 @@ tags: [leetcode]
 | 25   | Hard   | Reverse Nodes in k-Group                       | K 个一组翻转链表          | 链表   | 递归<br/>迭代                      | 24        |
 | 26   | Easy   | Remove Duplicates from Sorted Array            | 删除有序数组中的重复项    | 数组   | 快慢指针                           |           |
 | 27   | Easy   | Remove Element                                 | 移除元素                  | 数组   | 双指针                             |           |
+| 28   | Easy   | Implement strStr()                             | 实现 strStr()             | 字符串 | 暴力模拟<br/>KMP                   |           |
 
