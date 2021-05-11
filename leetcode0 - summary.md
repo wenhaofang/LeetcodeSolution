@@ -39,4 +39,5 @@ tags: [leetcode]
 | 26   | Easy   | Remove Duplicates from Sorted Array            | 删除有序数组中的重复项    | 数组   | 快慢指针                           |           |
 | 27   | Easy   | Remove Element                                 | 移除元素                  | 数组   | 双指针                             |           |
 | 28   | Easy   | Implement strStr()                             | 实现 strStr()             | 字符串 | 暴力模拟<br/>KMP                   |           |
+| 29   | Medium | Divide Two Integers                            | 两数相除                  | 数字   | 倍增                               |           |
 
