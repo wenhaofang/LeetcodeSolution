@@ -41,7 +41,7 @@ tags: [leetcode]
 | 28   | Easy   | Implement strStr()                             | 实现 strStr()             | 字符串 | 暴力模拟<br/>KMP                   |           |
 | 29   | Medium | Divide Two Integers                            | 两数相除                  | 数字   | 倍增                               |           |
 | 30   | Hard   | Substring with Concatenation of All Words      | 串联所有单词的子串        | 字符串 | 哈希映射<br/>滑动窗口              |           |
-|      |        |                                                |                           |        |                                    |           |
+| 31   | Medium | Next Permutation                               | 下一个排列                | 数组   | 背景规则                           |           |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
