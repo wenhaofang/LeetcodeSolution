@@ -30,7 +30,7 @@ tags: [leetcode]
 | 17   | Medium | Letter Combinations of a Phone Number          | 电话号码的字母组合        | 字符串 | 回溯                               |           |
 | 18   | Medium | 4Sum                                           | 四数之和                  | 数组   | 双指针                             | 1, 15     |
 | 19   | Medium | Remove Nth Node From End of List               | 删除链表的倒数第 N 个结点 | 链表   | 栈<br/>快慢指针                    |           |
-| 20   | Easy   | Valid Parentheses                              | 有效的括号                | 字符串 | 栈                                 |           |
+| 20   | Easy   | Valid Parentheses                              | 有效的括号                | 字符串 | 栈                                 | 32        |
 | 21   | Easy   | Merge Two Sorted Lists                         | 合并两个有序链表          | 链表   | 归并                               | 23        |
 | 22   | Medium | Generate Parentheses                           | 括号生成                  | 字符串 | 回溯                               |           |
 | 23   | Hard   | Merge k Sorted Lists                           | 合并K个升序链表           | 链表   | 归并<br/>优先队列<br/>分治         | 21        |
@@ -42,7 +42,7 @@ tags: [leetcode]
 | 29   | Medium | Divide Two Integers                            | 两数相除                  | 数字   | 倍增                               |           |
 | 30   | Hard   | Substring with Concatenation of All Words      | 串联所有单词的子串        | 字符串 | 哈希映射<br/>滑动窗口              |           |
 | 31   | Medium | Next Permutation                               | 下一个排列                | 数组   | 背景规则                           |           |
-|      |        |                                                |                           |        |                                    |           |
+| 32   | Hard   | Longest Valid Parentheses                      | 最长有效括号              | 字符串 | 栈<br/>双向遍历<br/>动态规划       | 20        |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
