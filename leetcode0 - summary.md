@@ -43,7 +43,7 @@ tags: [leetcode]
 | 30   | Hard   | Substring with Concatenation of All Words      | 串联所有单词的子串        | 字符串 | 哈希映射<br/>滑动窗口              |           |
 | 31   | Medium | Next Permutation                               | 下一个排列                | 数组   | 背景规则                           |           |
 | 32   | Hard   | Longest Valid Parentheses                      | 最长有效括号              | 字符串 | 栈<br/>双向遍历<br/>动态规划       | 20        |
-|      |        |                                                |                           |        |                                    |           |
+| 33   | Medium | Search in Rotated Sorted Array                 | 搜索旋转排序数组          | 数组   | 二分查找                           |           |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
 |      |        |                                                |                           |        |                                    |           |
