@@ -45,7 +45,7 @@ tags: [leetcode]
 | 32   | Hard   | Longest Valid Parentheses                               | 最长有效括号                               | 字符串 | 栈<br/>双向遍历<br/>动态规划       | 20        |
 | 33   | Medium | Search in Rotated Sorted Array                          | 搜索旋转排序数组                           | 数组   | 二分查找                           |           |
 | 34   | Medium | Find First and Last Position of Element in Sorted Array | 在排序数组中查找元素的第一个和最后一个位置 | 数组   | 二分查找                           |           |
-|      |        |                                                         |                                            |        |                                    |           |
+| 35   | Easy   | Search Insert Position                                  | 搜索插入位置                               | 数组   | 二分查找                           |           |
 |      |        |                                                         |                                            |        |                                    |           |
 |      |        |                                                         |                                            |        |                                    |           |
 |      |        |                                                         |                                            |        |                                    |           |
