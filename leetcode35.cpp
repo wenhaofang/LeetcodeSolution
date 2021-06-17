@@ -34,8 +34,8 @@ using std::endl;
  * 理论时间复杂度：O(logn)，其中 n 为数组大小
  * 理论空间复杂度：O(1)
  * 
- * 实际时间复杂度：Runtime: 4 ms, faster than 83.01% of C++ online submissions
- * 实际空间复杂度：Memory Usage: 9.5 MB, less than 90.70% of C++ online submissions
+ * 实际时间复杂度：Runtime: 0 ms, faster than 100.00% of C++ online submissions
+ * 实际空间复杂度：Memory Usage: 9.6 MB, less than 53.22% of C++ online submissions
  */
 class Solution {
 public:
@@ -43,20 +43,17 @@ public:
         int n = nums.size();
         int p1 = 0;
         int p2 = n - 1;
-        int ans = n;
         while (p1 <= p2) {
             int mid = p1 + (p2 - p1) / 2;
             if (nums[mid] == target) {
-                ans = mid;
                 p2 = mid - 1;
             } else if (nums[mid] < target) {
                 p1 = mid + 1;
             } else if (nums[mid] > target) {
-                ans = mid;
                 p2 = mid - 1;
             }
         }
-        return ans;
+        return p1;
     }
 };
 
