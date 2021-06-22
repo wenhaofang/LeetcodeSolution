@@ -47,7 +47,7 @@ public:
     bool isValidSudoku(vector<vector<char>>& board) {
         // 记录每行中数字 1 ~ 9 是否出现，共有 9 行
         bool row[9][9] = {false};
-        // 记录每列中数字 1 ~ 9 是否出现，共有 9 行
+        // 记录每列中数字 1 ~ 9 是否出现，共有 9 列
         bool col[9][9] = {false};
         // 记录每宫格数字 1 ~ 9 是否出现，共有 9 个宫格
         bool box[9][9] = {false};
