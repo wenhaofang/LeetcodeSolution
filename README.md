@@ -90,6 +90,7 @@
 | 86   | Medium | Partition List                                          | 分隔链表                                   | 链表   | 暴力模拟                           |           |
 | 87   | Hard   | Scramble String                                         | 扰乱字符串                                 | 字符串 | 动态规划                           |           |
 | 102  | Medium | Binary Tree Level Order Traversal                       | 二叉树的层序遍历                           | 二叉树 | 广度优先搜索                       |           |
-| 111  | Easy   | Minimum Depth of Binary Tree                            | 二叉树的最小深度                           | 二叉树 | 广度优先搜索                       |           |
+| 111  | Easy   | Minimum Depth of Binary Tree                            | 二叉树的最小深度                           | 二叉树 | 深度优先搜索<br/>广度优先搜索      |           |
+| 130  | Medium | Surrounded Regions                                      | 被围绕的区域                               | 数组   | 深度优先搜索<br/>广度优先搜索      |           |
 | 199  | Medium | Binary Tree Right Side View                             | 二叉树的右视图                             | 二叉树 | 广度优先搜索                       |           |
 
