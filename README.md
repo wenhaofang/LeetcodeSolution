@@ -93,6 +93,6 @@
 | 111  | Easy   | Minimum Depth of Binary Tree                            | 二叉树的最小深度                           | 二叉树 | 深度优先搜索<br/>广度优先搜索            |           |
 | 130  | Medium | Surrounded Regions                                      | 被围绕的区域                               | 数组   | 深度优先搜索<br/>广度优先搜索            | 200       |
 | 199  | Medium | Binary Tree Right Side View                             | 二叉树的右视图                             | 二叉树 | 广度优先搜索                             |           |
-| 200  | Medium | Number of Islands                                       | 岛屿数量                                   | 数组   | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130       |
-|      |        |                                                         |                                            |        |                                          |           |
+| 200  | Medium | Number of Islands                                       | 岛屿数量                                   | 数组   | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 1254 |
+| 1254 | Medium | Number of Closed Islands                                | 统计封闭岛屿的数目                         | 数组   | 深度优先搜索<br/>广度优先搜索            | 200       |
 
