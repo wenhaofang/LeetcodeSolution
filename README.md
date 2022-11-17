@@ -95,10 +95,11 @@
 | 130  | Medium | Surrounded Regions                                      | 被围绕的区域                               | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 199  | Medium | Binary Tree Right Side View                             | 二叉树的右视图                             | 二叉树 | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                       | 岛屿数量                                   | 数组   | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
-| 300  | Medium | Longest Increasing Subsequence                          | 最长递增子序列                             | 数组   | 动态规划                                 |                |
+| 300  | Medium | Longest Increasing Subsequence                          | 最长递增子序列                             | 数组   | 动态规划                                 | 516, 1143      |
+| 516  | Medium | Longest Palindromic Subsequence                         | 最长回文子序列                             | 字符串 | 动态规划                                 | 300, 1143      |
 | 695  | Medium | Max Area of Island                                      | 岛屿的最大面积                             | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 752  | Medium | Open the Lock                                           | 打开转盘锁                                 | 字符串 | 广度优先搜索                             | 773, 127       |
 | 773  | Hard   | Sliding Puzzle                                          | 滑动谜题                                   | 数组   | 广度优先搜索                             | 752            |
-| 1143 | Medium | Longest Common Subsequence                              | 最长公共子序列                             | 字符串 | 动态规划                                 |                |
+| 1143 | Medium | Longest Common Subsequence                              | 最长公共子序列                             | 字符串 | 动态规划                                 | 300, 516       |
 | 1254 | Medium | Number of Closed Islands                                | 统计封闭岛屿的数目                         | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 
