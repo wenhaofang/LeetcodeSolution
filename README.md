@@ -96,6 +96,7 @@
 | 199  | Medium | Binary Tree Right Side View                             | 二叉树的右视图                             | 二叉树 | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                       | 岛屿数量                                   | 数组   | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
 | 300  | Medium | Longest Increasing Subsequence                          | 最长递增子序列                             | 数组   | 动态规划                                 | 516, 1143      |
+| 435  | Medium | Non-overlapping Intervals                               | 无重叠区间                                 | 数组   | 贪心算法                                 |                |
 | 516  | Medium | Longest Palindromic Subsequence                         | 最长回文子序列                             | 字符串 | 动态规划                                 | 300, 1143      |
 | 695  | Medium | Max Area of Island                                      | 岛屿的最大面积                             | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 752  | Medium | Open the Lock                                           | 打开转盘锁                                 | 字符串 | 广度优先搜索                             | 773, 127       |
