@@ -100,6 +100,7 @@
 | 435  | Medium | Non-overlapping Intervals                               | 无重叠区间                                 | 数组   | 贪心算法                                 |                |
 | 516  | Medium | Longest Palindromic Subsequence                         | 最长回文子序列                             | 字符串 | 动态规划                                 | 300, 1143      |
 | 695  | Medium | Max Area of Island                                      | 岛屿的最大面积                             | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
+| 738  | Medium | Monotone Increasing Digits                              | 单调递增的数字                             | 数组   | 贪心算法                                 |                |
 | 752  | Medium | Open the Lock                                           | 打开转盘锁                                 | 字符串 | 广度优先搜索                             | 773, 127       |
 | 773  | Hard   | Sliding Puzzle                                          | 滑动谜题                                   | 数组   | 广度优先搜索                             | 752            |
 | 763  | Medium | Partition Labels                                        | 划分字母区间                               | 字符串 | 贪心算法                                 |                |
