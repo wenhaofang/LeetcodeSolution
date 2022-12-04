@@ -104,8 +104,9 @@
 | 752  | Medium | Open the Lock                                           | 打开转盘锁                                 | 字符串 | 广度优先搜索                             | 773, 127       |
 | 773  | Hard   | Sliding Puzzle                                          | 滑动谜题                                   | 数组   | 广度优先搜索                             | 752            |
 | 763  | Medium | Partition Labels                                        | 划分字母区间                               | 字符串 | 贪心算法                                 |                |
-| 875  | Medium | Koko Eating Bananas                                     | 爱吃香蕉的珂珂                             | 数组   | 二分查找                                 |                |
+| 875  | Medium | Koko Eating Bananas                                     | 爱吃香蕉的珂珂                             | 数组   | 二分查找                                 | 1011           |
 | 887  | Hard   | Super Egg Drop                                          | 鸡蛋掉落                                   | 数字   | 动态规划                                 |                |
+| 1011 | Medium | Capacity To Ship Packages Within D Days                 | 在 D 天内送达包裹的能力                    | 数组   | 二分查找                                 | 875            |
 | 1143 | Medium | Longest Common Subsequence                              | 最长公共子序列                             | 字符串 | 动态规划                                 | 300, 516       |
 | 1254 | Medium | Number of Closed Islands                                | 统计封闭岛屿的数目                         | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 
