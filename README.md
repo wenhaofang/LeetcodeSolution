@@ -98,6 +98,7 @@
 | 300  | Medium | Longest Increasing Subsequence                          | 最长递增子序列                             | 数组   | 动态规划                                 | 516, 1143      |
 | 376  | Medium | Wiggle Subsequence                                      | 摆动序列                                   | 数组   | 贪心算法                                 |                |
 | 435  | Medium | Non-overlapping Intervals                               | 无重叠区间                                 | 数组   | 贪心算法                                 |                |
+| 438  | Medium | Find All Anagrams in a String                           | 找到字符串中所有字母异位词                 | 字符串 | 滑动窗口                                 |                |
 | 516  | Medium | Longest Palindromic Subsequence                         | 最长回文子序列                             | 字符串 | 动态规划                                 | 300, 1143      |
 | 695  | Medium | Max Area of Island                                      | 岛屿的最大面积                             | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 738  | Medium | Monotone Increasing Digits                              | 单调递增的数字                             | 数组   | 贪心算法                                 |                |
