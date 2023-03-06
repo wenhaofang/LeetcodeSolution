@@ -94,6 +94,7 @@
 | 104  | Easy   | Maximum Depth of Binary Tree                              | 二叉树的最大深度                           | 二叉树 | 递归                                     |                |
 | 105  | Medium | Construct Binary Tree from Preorder and Inorder Traversal | 从前序与中序遍历序列构造二叉树             | 二叉树 | 递归                                     |                |
 | 111  | Easy   | Minimum Depth of Binary Tree                              | 二叉树的最小深度                           | 二叉树 | 深度优先搜索<br/>广度优先搜索            |                |
+| 124  | Hard   | Binary Tree Maximum Path Sum                              | 二叉树中的最大路径和                       | 二叉树 | 递归                                     |                |
 | 127  | Hard   | Word Ladder                                               | 单词接龙                                   | 字符串 | 广度优先搜索                             | 752            |
 | 130  | Medium | Surrounded Regions                                        | 被围绕的区域                               | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树 | 广度优先搜索                             |                |
