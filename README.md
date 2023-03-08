@@ -96,7 +96,7 @@
 | 105  | Medium | Construct Binary Tree from Preorder and Inorder Traversal | 从前序与中序遍历序列构造二叉树             | 二叉树 | 递归                                     |                |
 | 111  | Easy   | Minimum Depth of Binary Tree                              | 二叉树的最小深度                           | 二叉树 | 深度优先搜索<br/>广度优先搜索            |                |
 | 114  | Medium | Flatten Binary Tree to Linked List                        | 二叉树展开为链表                           | 二叉树 | 递归                                     |                |
-| 124  | Hard   | Binary Tree Maximum Path Sum                              | 二叉树中的最大路径和                       | 二叉树 | 递归                                     |                |
+| 124  | Hard   | Binary Tree Maximum Path Sum                              | 二叉树中的最大路径和                       | 二叉树 | 递归                                     | 543            |
 | 127  | Hard   | Word Ladder                                               | 单词接龙                                   | 字符串 | 广度优先搜索                             | 752            |
 | 130  | Medium | Surrounded Regions                                        | 被围绕的区域                               | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树 | 广度优先搜索                             |                |
@@ -109,6 +109,7 @@
 | 435  | Medium | Non-overlapping Intervals                                 | 无重叠区间                                 | 数组   | 贪心算法                                 |                |
 | 438  | Medium | Find All Anagrams in a String                             | 找到字符串中所有字母异位词                 | 字符串 | 滑动窗口                                 |                |
 | 516  | Medium | Longest Palindromic Subsequence                           | 最长回文子序列                             | 字符串 | 动态规划                                 | 300, 1143      |
+| 543  | Easy   | Diameter of Binary Tree                                   | 二叉树的直径                               | 二叉树 | 递归                                     | 124            |
 | 617  | Easy   | Merge Two Binary Trees                                    | 合并二叉树                                 | 二叉树 | 递归                                     |                |
 | 695  | Medium | Max Area of Island                                        | 岛屿的最大面积                             | 数组   | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 738  | Medium | Monotone Increasing Digits                                | 单调递增的数字                             | 数组   | 贪心算法                                 |                |
