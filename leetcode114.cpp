@@ -50,26 +50,56 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
+// class Solution {
+// public:
+//     vector<TreeNode*> linkList;
+
+//     void flatten(TreeNode* root) {
+//         preOrderTraverse(root);
+//         int n = linkList.size(); // ?
+//         for (int i = 0; i < n - 1; i++) {
+//             linkList[i] -> left = nullptr;
+//             linkList[i] -> right = linkList[i + 1];
+//         }
+//     }
+
+//     void preOrderTraverse(TreeNode* root) {
+//         if (!root) {
+//             return;
+//         }
+//         linkList.push_back(root);
+//         preOrderTraverse(root -> left);
+//         preOrderTraverse(root -> right);
+//     }
+// };
+
 class Solution {
 public:
-    vector<TreeNode*> linkList;
-
     void flatten(TreeNode* root) {
-        preOrderTraverse(root);
-        int n = linkList.size(); // ?
-        for (int i = 0; i < n - 1; i++) {
-            linkList[i] -> left = nullptr;
-            linkList[i] -> right = linkList[i + 1];
-        }
-    }
-
-    void preOrderTraverse(TreeNode* root) {
-        if (!root) {
+        if (root == nullptr) {
             return;
         }
-        linkList.push_back(root);
-        preOrderTraverse(root -> left);
-        preOrderTraverse(root -> right);
+        else if (root -> left == nullptr && root -> right == nullptr) {
+            return;
+        }
+        else if (root -> left == nullptr && root -> right != nullptr) {
+            flatten(root -> right);
+        }
+        else if (root -> left != nullptr && root -> right == nullptr) {
+            root -> right = root -> left;
+            root -> left = nullptr;
+            flatten(root -> right);
+        }
+        else if (root -> left != nullptr && root -> right != nullptr) {
+            TreeNode* right_parent_in_left = root -> left;
+            while (right_parent_in_left -> right != nullptr) {
+                right_parent_in_left = right_parent_in_left -> right;
+            }
+            right_parent_in_left -> right = root -> right;
+            root -> right = root -> left;
+            root -> left = nullptr;
+            flatten(root -> right);
+        }
     }
 };
 
