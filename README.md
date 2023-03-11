@@ -103,6 +103,7 @@
 | 127  | Hard   | Word Ladder                                               | 单词接龙                                   | 字符串     | 广度优先搜索                             | 752            |
 | 128  | Medium | Longest Consecutive Sequence                              | 最长连续序列                               | 数组       | 哈希                                     |                |
 | 130  | Medium | Surrounded Regions                                        | 被围绕的区域                               | 数组       | 深度优先搜索<br/>广度优先搜索            | 200            |
+| 136  | Easy   | Single Number                                             | 只出现一次的数字                           | 数组       | 位运算                                   |                |
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树     | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                         | 岛屿数量                                   | 数组       | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
 | 226  | Easy   | Invert Binary Tree                                        | 翻转二叉树                                 | 二叉树     | 递归                                     |                |
