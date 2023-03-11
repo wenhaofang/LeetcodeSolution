@@ -101,6 +101,7 @@
 | 121  | Easy   | Best Time to Buy and Sell Stock                           | 买卖股票的最佳时机                         | 数组       | 预处理<br/>逆过程                        |                |
 | 124  | Hard   | Binary Tree Maximum Path Sum                              | 二叉树中的最大路径和                       | 二叉树     | 递归                                     | 543            |
 | 127  | Hard   | Word Ladder                                               | 单词接龙                                   | 字符串     | 广度优先搜索                             | 752            |
+| 128  | Medium | Longest Consecutive Sequence                              | 最长连续序列                               | 数组       | 哈希                                     |                |
 | 130  | Medium | Surrounded Regions                                        | 被围绕的区域                               | 数组       | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树     | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                         | 岛屿数量                                   | 数组       | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
