@@ -90,6 +90,7 @@
 | 86   | Medium | Partition List                                            | 分隔链表                                   | 链表       | 暴力模拟                                 |                |
 | 87   | Hard   | Scramble String                                           | 扰乱字符串                                 | 字符串     | 动态规划                                 |                |
 | 94   | Easy   | Binary Tree Inorder Traversal                             | 二叉树的中序遍历                           | 二叉树     | 递归                                     |                |
+| 96   | Medium | Unique Binary Search Trees                                | 不同的二叉搜索树                           | 二叉搜索树 | 递归                                     |                |
 | 98   | Medium | Validate Binary Search Tree                               | 验证二叉搜索树                             | 二叉树     | 递归                                     |                |
 | 101  | Easy   | Symmetric Tree                                            | 对称二叉树                                 | 二叉树     | 递归                                     |                |
 | 102  | Medium | Binary Tree Level Order Traversal                         | 二叉树的层序遍历                           | 二叉树     | 广度优先搜索                             |                |
