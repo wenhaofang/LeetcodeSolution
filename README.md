@@ -110,6 +110,7 @@
 | 148  | Medium | Sort List                                                 | 排序链表                                   | 链表       | 归并排序                                 |                |
 | 152  | Medium | Maximum Product Subarray                                  | 乘积最大子数组                             | 数组       | 动态规划                                 |                |
 | 160  | Easy   | Intersection of Two Linked Lists                          | 相交链表                                   | 链表       | 数学                                     |                |
+| 169  | Easy   | Majority Element                                          | 多数元素                                   | 数组       | 模拟                                     |                |
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树     | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                         | 岛屿数量                                   | 数组       | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
 | 226  | Easy   | Invert Binary Tree                                        | 翻转二叉树                                 | 二叉树     | 递归                                     |                |
