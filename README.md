@@ -126,6 +126,7 @@
 | 538  | Medium | Convert BST to Greater Tree                               | 把二叉搜索树转换为累加树                   | 二叉搜索树 | 递归                                     |                |
 | 543  | Easy   | Diameter of Binary Tree                                   | 二叉树的直径                               | 二叉树     | 递归                                     | 124            |
 | 617  | Easy   | Merge Two Binary Trees                                    | 合并二叉树                                 | 二叉树     | 递归                                     |                |
+| 647  | Medium | Palindromic Substrings                                    | 回文子串                                   | 字符串     | 暴力搜索                                 |                |
 | 695  | Medium | Max Area of Island                                        | 岛屿的最大面积                             | 数组       | 深度优先搜索<br/>广度优先搜索            | 200            |
 | 738  | Medium | Monotone Increasing Digits                                | 单调递增的数字                             | 数组       | 贪心算法                                 |                |
 | 739  | Medium | Daily Temperatures                                        | 每日温度                                   | 数组       | 单调栈                                   |                |
