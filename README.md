@@ -118,6 +118,7 @@
 | 297  | Hard   | Serialize and Deserialize Binary Tree                     | 二叉树的序列化与反序列化                   | 二叉树     | 递归                                     |                |
 | 300  | Medium | Longest Increasing Subsequence                            | 最长递增子序列                             | 数组       | 动态规划                                 | 516, 1143      |
 | 337  | Medium | House Robber III                                          | 打家劫舍 III                               | 二叉树     | 递归<br/>动态规划                        |                |
+| 338  | Easy   | Counting Bits                                             | 比特位计数                                 | 数字       | 位运算                                   | 461            |
 | 347  | Medium | Top K Frequent Elements                                   | 前 K 个高频元素                            | 数组       | 栈                                       |                |
 | 376  | Medium | Wiggle Subsequence                                        | 摆动序列                                   | 数组       | 贪心算法                                 |                |
 | 394  | Medium | Decode String                                             | 字符串解码                                 | 字符串     | 栈                                       |                |
@@ -126,7 +127,7 @@
 | 437  | Medium | Path Sum III                                              | 路径总和 III                               | 二叉树     | 递归                                     |                |
 | 438  | Medium | Find All Anagrams in a String                             | 找到字符串中所有字母异位词                 | 字符串     | 滑动窗口                                 |                |
 | 448  | Easy   | Find All Numbers Disappeared in an Array                  | 找到所有数组中消失的数字                   | 数组       | 哈希<br/>原地哈希                        |                |
-| 461  | Easy   | Hamming Distance                                          | 汉明距离                                   | 数字       | 位运算                                   |                |
+| 461  | Easy   | Hamming Distance                                          | 汉明距离                                   | 数字       | 位运算                                   | 338            |
 | 494  | Medium | Target Sum                                                | 目标和                                     | 数组       | 深度优先搜索<br/>转换<br/>动态规划       | 416            |
 | 516  | Medium | Longest Palindromic Subsequence                           | 最长回文子序列                             | 字符串     | 动态规划                                 | 300, 1143      |
 | 538  | Medium | Convert BST to Greater Tree                               | 把二叉搜索树转换为累加树                   | 二叉搜索树 | 递归                                     |                |
