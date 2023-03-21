@@ -118,6 +118,7 @@
 | 297  | Hard   | Serialize and Deserialize Binary Tree                     | 二叉树的序列化与反序列化                   | 二叉树     | 递归                                     |                |
 | 300  | Medium | Longest Increasing Subsequence                            | 最长递增子序列                             | 数组       | 动态规划                                 | 516, 1143      |
 | 337  | Medium | House Robber III                                          | 打家劫舍 III                               | 二叉树     | 递归<br/>动态规划                        |                |
+| 347  | Medium | Top K Frequent Elements                                   | 前 K 个高频元素                            | 数组       | 栈                                       |                |
 | 376  | Medium | Wiggle Subsequence                                        | 摆动序列                                   | 数组       | 贪心算法                                 |                |
 | 394  | Medium | Decode String                                             | 字符串解码                                 | 字符串     | 栈                                       |                |
 | 416  | Medium | Partition Equal Subset Sum                                | 分割等和子集                               | 数组       | 转换<br/>深度优先搜索<br/>动态规划       | 494            |
