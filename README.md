@@ -125,6 +125,7 @@
 | 516  | Medium | Longest Palindromic Subsequence                           | 最长回文子序列                             | 字符串     | 动态规划                                 | 300, 1143      |
 | 538  | Medium | Convert BST to Greater Tree                               | 把二叉搜索树转换为累加树                   | 二叉搜索树 | 递归                                     |                |
 | 543  | Easy   | Diameter of Binary Tree                                   | 二叉树的直径                               | 二叉树     | 递归                                     | 124            |
+| 560  | Medium | Subarray Sum Equals K                                     | 和为 K 的子数组                            | 数组       | 前缀和<br/>哈希                          |                |
 | 581  | Medium | Shortest Unsorted Continuous Subarray                     | 最短无序连续子数组                         | 数组       | 排序<br/>模拟                            |                |
 | 617  | Easy   | Merge Two Binary Trees                                    | 合并二叉树                                 | 二叉树     | 递归                                     |                |
 | 621  | Medium | Task Scheduler                                            | 任务调度器                                 | 数组       | 数学                                     |                |
