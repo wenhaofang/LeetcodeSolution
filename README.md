@@ -116,6 +116,7 @@
 | 200  | Medium | Number of Islands                                         | 岛屿数量                                   | 数组       | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
 | 206  | Easy   | Reverse Linked List                                       | 反转链表                                   | 链表       | 迭代                                     |                |
 | 215  | Medium | Kth Largest Element in an Array                           | 数组中的第K个最大元素                      | 数组       | 堆                                       | 347            |
+| 221  | Medium | Maximal Square                                            | 最大正方形                                 | 数组       | 动态规划                                 |                |
 | 226  | Easy   | Invert Binary Tree                                        | 翻转二叉树                                 | 二叉树     | 递归                                     |                |
 | 234  | Easy   | Palindrome Linked List                                    | 回文链表                                   | 链表       | 转换                                     |                |
 | 236  | Medium | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先                       | 二叉树     | 递归                                     |                |
