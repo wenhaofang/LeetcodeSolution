@@ -115,6 +115,7 @@
 | 199  | Medium | Binary Tree Right Side View                               | 二叉树的右视图                             | 二叉树     | 广度优先搜索                             |                |
 | 200  | Medium | Number of Islands                                         | 岛屿数量                                   | 数组       | 深度优先搜索<br/>广度优先搜索<br/>并查集 | 130, 695, 1254 |
 | 206  | Easy   | Reverse Linked List                                       | 反转链表                                   | 链表       | 迭代                                     |                |
+| 215  | Medium | Kth Largest Element in an Array                           | 数组中的第K个最大元素                      | 数组       | 堆                                       | 347            |
 | 226  | Easy   | Invert Binary Tree                                        | 翻转二叉树                                 | 二叉树     | 递归                                     |                |
 | 234  | Easy   | Palindrome Linked List                                    | 回文链表                                   | 链表       | 转换                                     |                |
 | 236  | Medium | Lowest Common Ancestor of a Binary Tree                   | 二叉树的最近公共祖先                       | 二叉树     | 递归                                     |                |
@@ -124,7 +125,7 @@
 | 300  | Medium | Longest Increasing Subsequence                            | 最长递增子序列                             | 数组       | 动态规划                                 | 516, 1143      |
 | 337  | Medium | House Robber III                                          | 打家劫舍 III                               | 二叉树     | 递归<br/>动态规划                        |                |
 | 338  | Easy   | Counting Bits                                             | 比特位计数                                 | 数字       | 位运算                                   | 461            |
-| 347  | Medium | Top K Frequent Elements                                   | 前 K 个高频元素                            | 数组       | 栈                                       |                |
+| 347  | Medium | Top K Frequent Elements                                   | 前 K 个高频元素                            | 数组       | 堆                                       | 215            |
 | 376  | Medium | Wiggle Subsequence                                        | 摆动序列                                   | 数组       | 贪心算法                                 |                |
 | 394  | Medium | Decode String                                             | 字符串解码                                 | 字符串     | 栈                                       |                |
 | 416  | Medium | Partition Equal Subset Sum                                | 分割等和子集                               | 数组       | 转换<br/>深度优先搜索<br/>动态规划       | 494            |
