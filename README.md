@@ -142,7 +142,8 @@
 | 448  | Easy   | Find All Numbers Disappeared in an Array                  | 找到所有数组中消失的数字                   | 数组       | 哈希<br/>原地哈希                        |                |
 | 461  | Easy   | Hamming Distance                                          | 汉明距离                                   | 数字       | 位运算                                   | 338            |
 | 494  | Medium | Target Sum                                                | 目标和                                     | 数组       | 深度优先搜索<br/>转换<br/>动态规划       | 416            |
-| 496  | Easy   | Next Greater Element I                                    | 下一个更大元素 I                           | 数组       | 单调栈                                   |                |
+| 496  | Easy   | Next Greater Element I                                    | 下一个更大元素 I                           | 数组       | 单调栈                                   | 503            |
+| 503  | Medium | Next Greater Element II                                   | 下一个更大元素 II                          | 数组       | 单调栈                                   | 496            |
 | 516  | Medium | Longest Palindromic Subsequence                           | 最长回文子序列                             | 字符串     | 动态规划                                 | 300, 1143      |
 | 538  | Medium | Convert BST to Greater Tree                               | 把二叉搜索树转换为累加树                   | 二叉搜索树 | 递归                                     |                |
 | 543  | Easy   | Diameter of Binary Tree                                   | 二叉树的直径                               | 二叉树     | 递归                                     | 124            |
