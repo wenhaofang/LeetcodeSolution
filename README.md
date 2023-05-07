@@ -131,6 +131,7 @@
 | 283  | Easy   | Move Zeroes                                               | 移动零                                     | 数组       | 快慢指针                                 |                |
 | 297  | Hard   | Serialize and Deserialize Binary Tree                     | 二叉树的序列化与反序列化                   | 二叉树     | 递归                                     |                |
 | 300  | Medium | Longest Increasing Subsequence                            | 最长递增子序列                             | 数组       | 动态规划                                 | 516, 1143      |
+| 303  | Easy   | Range Sum Query - Immutable                               | 区域和检索 - 数组不可变                    | 数组       | 前缀和                                   |                |
 | 337  | Medium | House Robber III                                          | 打家劫舍 III                               | 二叉树     | 递归<br/>动态规划                        |                |
 | 338  | Easy   | Counting Bits                                             | 比特位计数                                 | 数字       | 位运算                                   | 461            |
 | 347  | Medium | Top K Frequent Elements                                   | 前 K 个高频元素                            | 数组       | 堆                                       | 215            |
