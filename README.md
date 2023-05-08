@@ -168,6 +168,7 @@
 | 1109 | Medium | Corporate Flight Bookings                                 | 航班预订统计                               | 数组       | 差分数组                                 |                |
 | 1143 | Medium | Longest Common Subsequence                                | 最长公共子序列                             | 字符串     | 动态规划                                 | 300, 516       |
 | 1254 | Medium | Number of Closed Islands                                  | 统计封闭岛屿的数目                         | 数组       | 深度优先搜索<br/>广度优先搜索            | 200            |
+| 1893 | Easy   | Check if All the Integers in a Range Are Covered          | 检查是否区域内所有整数都被覆盖             | 数组       | 差分数组                                 |                |
 
 
 
